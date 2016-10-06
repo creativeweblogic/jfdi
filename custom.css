@@ -27,6 +27,7 @@ html{background-image:none;background-color:#99cc00}
 #container{border:0 solid #cccccc}
 
 /* Custom */
+.wufoo {margin: 0}
 .wufoo .info {display:none}
 .wufoo .desc {
     font-weight: normal;
@@ -72,4 +73,5 @@ html{background-image:none;background-color:#99cc00}
     border-bottom-color: #b3b3b3;
     border-radius: 4px;
     vertical-align: middle;
+    cursor: pointer
 }
