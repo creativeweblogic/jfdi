@@ -59,11 +59,6 @@ form.wufoo {padding: 0 !important; margin: 0 !important;}
     line-height: 15px
 }
 
-.wufoo li.section h3 {
-    font-size: 120%;
-    font-weight: bold;
-}
-
 .wufoo .submit {
     font-size: 12px;
     font-weight: bold;
