@@ -36,8 +36,6 @@ form.wufoo {padding: 0 !important; margin: 0 !important;}
 .wufoo input.text, .wufoo textarea.textarea, .wufoo select.select {
     width: 100%;
     min-height: 30px;
-    font-size: 14px;
-    line-height: 20px;
     color: #555;
     background-color: #f2f2f2;
     border: 1px solid #ccc;
