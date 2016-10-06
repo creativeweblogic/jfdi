@@ -33,6 +33,7 @@ html{background-image:none;background-color:#99cc00}
 }
 
 .wufoo input.text, .wufoo textarea.textarea, .wufoo select.select {
+    width: 100%;
     min-height: 30px;
     font-size: 14px;
     line-height: 20px;
