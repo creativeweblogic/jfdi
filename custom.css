@@ -27,7 +27,7 @@ html{background-image:none;background-color:#99cc00}
 #container{border:0 solid #cccccc}
 
 /* Custom */
-.wufoo {margin: 0}
+.wufoo {padding: 0}
 .wufoo .info {display:none}
 .wufoo .desc {
     font-weight: normal;
